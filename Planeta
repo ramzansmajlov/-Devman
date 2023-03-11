@@ -1,7 +1,8 @@
 import os, time
 
 print('\u001b[32m')
-print(r"""                   _-o#&&*''''?d:>b\\_ 
+os.system('clear')
+print("""                   _-o#&&*''''?d:>b\\_ 
               _o/'`''  '',, dMF9MMMMMHo_
            .o&#'        `'MbHMMMMMMMMMMMHo.
          .o'' '         vodM*$&&HMMMMMMMMMM?.
